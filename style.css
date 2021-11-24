@@ -712,10 +712,7 @@ input:required {
 
       }
 
-      .single-welcome-slide .welcome-text{
-        margin-bottom: 400px;
-
-      }
+      
     .single-welcome-slide .welcome-text .lightmainh {
       font-weight: 700;
       font-size: 82px;
@@ -1998,3 +1995,40 @@ body {background-color: #ddd; }
 font-size: larger;
 font-weight: bold;
 }
+
+.single-welcome-slide .first-cr{
+
+text-align: center;
+margin-bottom: 400px;
+}
+
+.single-welcome-slide .second-cr{
+
+  text-align: center;
+  margin-bottom: 400px;
+  margin-left: 900px;
+  }
+
+  .single-welcome-slide .third-cr{
+
+    text-align: center;
+    margin-bottom: 400px;
+    margin-left: 800px;
+    }
+
+    .single-welcome-slide .mobile-welcome-text .mobile-header {
+      font-size: 50px;
+      text-align: center;
+      margin-bottom: 300px;
+
+    }
+
+    .single-welcome-slide .mobile-welcome-text .mobile-text {
+      font-size: 25px;
+      font-weight: bold;
+      color: #000;
+      text-align: center;
+      padding-top: 100px;
+
+    }
+    
