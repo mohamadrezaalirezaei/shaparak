@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset
+    xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+    xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
+    <url>
+        <loc>http://shaparak-studio.ir/contact.html</loc>
+        <image:image>
+            <image:loc>http://shaparak-studio.ir/img/bg-img/child/child9.jpg</image:loc>
+        </image:image>
+        <image:image>
+            <image:loc>http://shaparak-studio.ir/img/bg-img/insta/insta111.jpg</image:loc>
+        </image:image>
+        <image:image>
+            <image:loc>http://shaparak-studio.ir/img/bg-img/insta/insta122.jpg</image:loc>
+        </image:image>
+        <image:image>
+            <image:loc>http://shaparak-studio.ir/img/bg-img/insta/insta133.jpg</image:loc>
+        </image:image>
+        <image:image>
+            <image:loc>http://shaparak-studio.ir/img/bg-img/insta/insta155.jpg</image:loc>
+        </image:image>
+        <image:image>
+            <image:loc>http://shaparak-studio.ir/img/bg-img/insta/insta144.jpg</image:loc>
+        </image:image>
+        <image:image>
+            <image:loc>http://shaparak-studio.ir/img/bg-img/insta/b66.jpg</image:loc>
+        </image:image>
+        <image:image>
+            <image:loc>http://shaparak-studio.ir/img/bg-img/insta/insta66.jpg</image:loc>
+        </image:image>
+        <image:image>
+            <image:loc>http://shaparak-studio.ir/img/bg-img/insta/insta55.jpg</image:loc>
+        </image:image>
+    </url>
+</urlset>
