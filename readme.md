@@ -1,9 +1,7 @@
 /* ------------------------------------------------------
-Template Name: Alime - Photography HTML Template
-Template Author: Colorlib
-Template Author URI: https://colorlib.com
+Template Name: shaparak studio
+Template Author: mreza
 Version: 1.0.0
-Last Update: Feb 22, 2019
 ----------------------------------------------------- */
 
 /* --------------------------------
