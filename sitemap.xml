@@ -7,31 +7,31 @@
             <sitemap>
               <loc>http://shaparak-studio.ir/sitemap/main.xml</loc>
               <lastmod>2021-11-23T16:35:03+00:00</lastmod>
-              <priority>1.00</priority>
+              
             </sitemap>
 
             <sitemap>
               <loc>http://shaparak-studio.ir/sitemap/index.xml</loc>
               <lastmod>2021-11-23T16:35:03+00:00</lastmod>
-              <priority>0.80</priority>
+              
             </sitemap>
 
             <sitemap>
               <loc>http://shaparak-studio.ir/sitemap/gallery.xml</loc>
               <lastmod>2021-11-23T16:35:03+00:00</lastmod>
-              <priority>0.80</priority>
+              
             </sitemap>
 
             <sitemap>
               <loc>http://shaparak-studio.ir/sitemap/about.xml</loc>
               <lastmod>2021-11-23T16:35:30+00:00</lastmod>
-              <priority>0.80</priority>
+              
             </sitemap>
 
             <sitemap>
               <loc>http://shaparak-studio.ir/sitemap/contact.xml</loc>
               <lastmod>2021-11-23T16:35:46+00:00</lastmod>
-              <priority>0.80</priority>
+              
             </sitemap>
 
 
@@ -39,7 +39,7 @@
             <sitemap>
               <loc>http://shaparak-studio.ir/gallery.html</loc>
               <lastmod>2021-11-23T16:35:17+00:00</lastmod>
-              <priority>0.80</priority>
+              
             </sitemap>
 
 
