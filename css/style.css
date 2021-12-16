@@ -1218,7 +1218,7 @@ text-shadow: none;
 		outline: none;
 		border-radius: 5px;
 	}
-	button{
+	.userBtn{
 		width: 60%;
 		height: 40px;
 		margin: 10px auto;
