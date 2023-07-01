@@ -34,7 +34,7 @@
             smartSpeed: 1000,
             autoplayTimeout: 10000,
             nav: true,
-            navText: [('<i class="ti-arrow-left"></i>'), ('<i class="ti-arrow-right"></i>')]
+            navText: ['<i class="fas fa-arrow-left"></i>', '<i class="fas fa-arrow-right"></i>']
         })
 
         welcomeSlider.on('translate.owl.carousel', function () {
@@ -123,7 +123,7 @@
     // ***********************************
     // :: 6.0 Portfolio Button Active Code
     // ***********************************
-    
+
     $('.portfolio-menu button.btn').on('click', function () {
         $('.portfolio-menu button.btn').removeClass('active');
         $(this).addClass('active');
@@ -196,7 +196,7 @@
     if ($.fn.scrollUp) {
         alime_window.scrollUp({
             scrollSpeed: 1000,
-            scrollText: '<i class="arrow_carrot-up"</i>'
+            scrollText: '<i class="fas fa-arrow-up"></i>'
         });
     }
 
